@@ -8,6 +8,8 @@
 - apple
 - orange
 - pear
+- banana
+- lemon
 
 ### 順序リスト
 
