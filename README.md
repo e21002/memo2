@@ -1,9 +1,16 @@
 # memo2
 
-## h2
+## list
 
-見出しレベル２
 
-### h3
+### リスト
 
-見出しレベル3
+- apple
+- orange
+- pear
+
+### 順序リスト
+
+1. first
+1. second
+1. third
